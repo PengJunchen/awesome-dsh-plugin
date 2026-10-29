@@ -1,0 +1,7 @@
+url: https://github.com/PengJunchen/dsh-video-studio
+name: PengJunchen/dsh-video-studio
+category: tools
+description:
+  en: 'Local video color editing with camera-matched DJI Log LUTs, independent highlights and shadows, optional skin and selective color controls, frame previews, and 10-bit HEVC export; platform releases bundle Python and FFmpeg.'
+  zh: '本地视频调色工作台，支持 DJI Log LUT 匹配还原、高光与暗部独立调节、可选肤色与局部颜色控制、逐帧预览和 10-bit HEVC 导出；各平台完整发行包自带 Python 与 FFmpeg。'
+tarball: https://github.com/PengJunchen/dsh-video-studio/releases/download/v0.1.0-beta.3/dsh-video-studio-0.1.0-beta.3.tgz
